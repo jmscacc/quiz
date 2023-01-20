@@ -17,11 +17,13 @@ body {
     background-color: #bdd4e7;
     background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
     width: 600px;
+    margin: 0 10%;
 }
 
 .question-container{
     display: flex;
     justify-content: center;
+    margin: 0 10%;
     margin-top: 20px;
 }
 
